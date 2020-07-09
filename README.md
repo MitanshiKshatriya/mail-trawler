@@ -10,7 +10,7 @@ Complete solution: Get the last five emails containing words similar or equivale
 Note: You can remove your email and password before submitting and instruct us in the text file to let us put our own email/password to test your code.
 
 <ul>
- <li>Installing relevant packages - pip install -r requirements.txt</li>
+ <li>Installing relevant packages - <code>pip install -r requirements.txt</code></li>
  <li>Run querymail.py. Enter mailid and password</li>
 </ul>
 
