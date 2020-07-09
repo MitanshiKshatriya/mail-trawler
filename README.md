@@ -20,8 +20,8 @@ Note: You can remove your email and password before submitting and instruct us i
  <li>The program is coded for yahoo mail. For using 
 gmail, change the line 
 <code>imap_host='imap.mail.yahoo.com'</code>
- <br>to<br>
-<code>imap_host='imap.gmail.com'</code></li>
+ <br>to
+<code> imap_host='imap.gmail.com'</code></li>
  <li>While using a yahoo mail id generate a new "app password", for gmail id "allow less secure apps" from google account settings</li>
 </ul>
 
